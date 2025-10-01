@@ -1,4 +1,4 @@
-## Olá, sou novo por aqui, ainda precisdo aprender muita coisa, mas com tempo chego lá. 👋
+## Olá, sou novo por aqui, ainda preciso aprender muita coisa, mas com tempo chego lá. 👋
 
 <div>
    <a href="https://github.com/eduardolukas">

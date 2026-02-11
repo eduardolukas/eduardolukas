@@ -1,4 +1,13 @@
-## Olá, sou novo por aqui, ainda preciso aprender muita coisa, mas com tempo chego lá. 👋
+##  Canalizador Industrial | Em transição para Desenvolvedor Web (Front-end & Back-end) | 33 anos | Lavradio, Portugal 🇵🇹🇧🇷
+
+🔧 **Base técnica desde os 15 anos** | Autoeducando em desenvolvimento web
+
+**Minha jornada na tecnologia:**
+🎓 **2006** - Curso Técnico Montagem e Manutenção de Computadores e Redes Locais (paralelo ao ensino médio)  
+💻 Acompanhando tecnologia desde então, com foco inicial em hardware  
+⚒️ **9+ anos** como Canalizador Industrial em Portugal  
+🚀 **Agora** - Autoestudo intensivo: HTML, CSS, JavaScript → Back-end  
+🤖 Usando IA para criar projetos reais e acelerar aprendizado  
 
 <div>
    <a href="https://github.com/eduardolukas/Portifolio-/">

@@ -1,7 +1,7 @@
 ## Olá, sou novo por aqui, ainda preciso aprender muita coisa, mas com tempo chego lá. 👋
 
 <div>
-   <a href="https://github.com/eduardolukas">
+   <a href="https://github.com/eduardolukas/Portifolio-/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolukas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolukas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
